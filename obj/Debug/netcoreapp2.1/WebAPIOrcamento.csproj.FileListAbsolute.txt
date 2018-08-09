@@ -1,0 +1,28 @@
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.deps.json
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.runtimeconfig.json
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.runtimeconfig.dev.json
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.dll
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.pdb
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.csproj.CoreCompileInputs.cache
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorAssemblyInfo.cache
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorAssemblyInfo.cs
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.AssemblyInfoInputs.cache
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.AssemblyInfo.cs
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorTargetAssemblyInfo.cache
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.dll
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.pdb
+D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.csprojAssemblyReference.cache
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.deps.json
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.runtimeconfig.json
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.runtimeconfig.dev.json
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.dll
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.pdb
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.csprojAssemblyReference.cache
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.csproj.CoreCompileInputs.cache
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorAssemblyInfo.cache
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorAssemblyInfo.cs
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.AssemblyInfoInputs.cache
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.AssemblyInfo.cs
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorTargetAssemblyInfo.cache
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.dll
+/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.pdb
