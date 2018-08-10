@@ -32,15 +32,17 @@ namespace WebAPIOrcamento
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {   
-            services.AddTransient<IGenericRepository<Produtos>, ProdutosRepository>();            
+            services.AddTransient<IGenericRepository<TbProdutos>, ProdutosRepository>();            
+            services.AddTransient<IGenericRepository<TbClientes>, ClientesRepository>();                        
+            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);                        
-            services.AddEntityFrameworkNpgsql().AddDbContext<MyWebApiContext>(opt => opt.UseNpgsql(Configuration.GetConnectionString("PostGreeOnline")));
+            services.AddEntityFrameworkMySql().AddDbContext<DbOrcamentoContext>(opt => opt.UseMySql(Configuration.GetConnectionString("MySQLConnectionString")));
             
             //var connectionString = Configuration.GetConnectionString("PostGreeOnline");
             //services.AddEntityFrameworkNpgsql().AddDbContext<MyWebApiContext>(options => options.UseNpgsql(connectionString));
             
             services.AddSwaggerGen(c => {
-                c.SwaggerDoc("v3", new Info{Title = "APIProdutos",Version="v3"});
+                c.SwaggerDoc("v3", new Info{Title = "API-Orçamento",Version="v3"});
 
             } );
         
@@ -61,7 +63,7 @@ namespace WebAPIOrcamento
             app.UseSwagger();
             app.UseSwaggerUI( c=> 
             {
-                c.SwaggerEndpoint("/swagger/v3/swagger.json","APIProdutos v3");
+                c.SwaggerEndpoint("/swagger/v3/swagger.json","API-Orçamento");
             });
             app.UseHttpsRedirection();
             app.UseMvc();

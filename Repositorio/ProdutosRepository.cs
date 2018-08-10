@@ -4,39 +4,39 @@ using System.Linq;
 
 namespace WebAPIOrcamento.Repositorio
 {
-    public class ProdutosRepository : IGenericRepository<Produtos>
+    public class ProdutosRepository : IGenericRepository<TbProdutos>
     {
-        private readonly MyWebApiContext _Contexto;
-        public ProdutosRepository(MyWebApiContext ctx)
+        private readonly DbOrcamentoContext _Contexto;
+        public ProdutosRepository(DbOrcamentoContext ctx)
         {
           _Contexto = ctx;   
         }
-        public void Add(Produtos OBJ)
+        public void Add(TbProdutos OBJ)
         {
-          _Contexto.produtos.Add(OBJ);
+          _Contexto.TbProdutos.Add(OBJ);
           _Contexto.SaveChanges();
         }
 
-        public Produtos Find(long id)
+        public TbProdutos Find(long id)
         {
-           return _Contexto.produtos.FirstOrDefault(u => u.codigo == id);
+           return _Contexto.TbProdutos.FirstOrDefault(u => u.ICodProduto == id);
         }
 
-        public IEnumerable<Produtos> GetAll()
+        public IEnumerable<TbProdutos> GetAll()
         {
-          return _Contexto.produtos.ToList();          
+          return _Contexto.TbProdutos.ToList();          
         }
 
         public void Remover(long id)
         {
-            var entity = _Contexto.produtos.First(u => u.codigo == id);
-            _Contexto.produtos.Remove(entity);
+            var entity = _Contexto.TbProdutos.First(u => u.ICodProduto == id);
+            _Contexto.TbProdutos.Remove(entity);
             _Contexto.SaveChanges();
         }
 
-        public void Update(Produtos produto)
+        public void Update(TbProdutos produto)
         {
-           _Contexto.produtos.Update(produto);
+           _Contexto.TbProdutos.Update(produto);
         }
     }
 }

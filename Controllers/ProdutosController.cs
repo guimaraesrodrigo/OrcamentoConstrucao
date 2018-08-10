@@ -15,15 +15,15 @@ namespace WebAPIOrcamento.Controllers
     // [Authorize]
     public class ProdutosController: ControllerBase
     {
-        private readonly IGenericRepository<Produtos> _produtoRepositorio;
+        private readonly IGenericRepository<TbProdutos> _produtoRepositorio;
         
-        public ProdutosController(IGenericRepository<Produtos> rep)
+        public ProdutosController(IGenericRepository<TbProdutos> rep)
         {
             _produtoRepositorio = rep;
             
         }
         [HttpGet]
-        public IEnumerable<Produtos> GetAll()
+        public IEnumerable<TbProdutos> GetAll()
         {           
            return _produtoRepositorio.GetAll();            
         }
@@ -49,11 +49,11 @@ namespace WebAPIOrcamento.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create([FromBody] Produtos Prod)
+        public IActionResult Create([FromBody] TbProdutos Prod)
         {
             _produtoRepositorio.Add(Prod);
             
-            return CreatedAtRoute("GetProdutos", new{id=Prod.codigo },Prod );
+            return CreatedAtRoute("GetProdutos", new{id=Prod.ICodProduto },Prod );
         }
 
         
