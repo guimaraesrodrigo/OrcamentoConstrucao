@@ -2,29 +2,32 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using WebAPIOrcamento.Model;
 using WebAPIOrcamento.Repositorio;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace WebAPIOrcamento.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]   
      
+    [Authorize( Policy = "OrcamentoAPI")]       
+    
     public class ClientesController: ControllerBase
     {
       private readonly IGenericRepository<TbClientes> _ClientesRepository;
 
       public ClientesController(IGenericRepository<TbClientes> rep)
       {
-            _ClientesRepository = rep;
-            
+            _ClientesRepository = rep;            
       }
       
-      [HttpGet]
+      [HttpGet]    
       public IEnumerable<TbClientes> GetAll()
       {           
            return _ClientesRepository.GetAll();            
       }
 
-       [HttpGet("{id}",Name="Getclientes")]
+       [HttpGet("{id}",Name="Getclientes")]    
         public IActionResult GetById(long id)
         {
             try

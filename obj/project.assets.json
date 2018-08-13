@@ -11694,11 +11694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/WebAPIOrcamento.csproj",
+      "projectUniqueName": "/home/rodrigo/Área de Trabalho/WebAPIOrcamento/WebAPIOrcamento.csproj",
       "projectName": "WebAPIOrcamento",
-      "projectPath": "/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/WebAPIOrcamento.csproj",
+      "projectPath": "/home/rodrigo/Área de Trabalho/WebAPIOrcamento/WebAPIOrcamento.csproj",
       "packagesPath": "/home/rodrigo/.nuget/packages/",
-      "outputPath": "/media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/",
+      "outputPath": "/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

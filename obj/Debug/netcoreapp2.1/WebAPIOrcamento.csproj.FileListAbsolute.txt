@@ -26,3 +26,17 @@ D:/OneDrive/Desenvolvimento/DOTNET Core/WebAPIOrcamento/obj/Debug/netcoreapp2.1/
 /media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorTargetAssemblyInfo.cache
 /media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.dll
 /media/rodrigo/HD 2 - Particao 2/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.pdb
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.deps.json
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.runtimeconfig.json
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.runtimeconfig.dev.json
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.dll
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/Debug/netcoreapp2.1/WebAPIOrcamento.pdb
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.csprojAssemblyReference.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.csproj.CoreCompileInputs.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorAssemblyInfo.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorAssemblyInfo.cs
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.AssemblyInfoInputs.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.AssemblyInfo.cs
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.RazorTargetAssemblyInfo.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.dll
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/Debug/netcoreapp2.1/WebAPIOrcamento.pdb
