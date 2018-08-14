@@ -12,7 +12,7 @@ namespace WebAPIOrcamento.Controllers
     [Route("api/[controller]")]
     [ApiController]   
     
-    // [Authorize]
+    [Authorize( Policy = "OrcamentoAPI")]      
     public class ProdutosController: ControllerBase
     {
         private readonly IGenericRepository<TbProdutos> _produtoRepositorio;

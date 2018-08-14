@@ -89,6 +89,11 @@ namespace WebAPIOrcamento
 
             services.AddTransient<IGenericRepository<TbProdutos>, ProdutosRepository>();            
             services.AddTransient<IGenericRepository<TbClientes>, ClientesRepository>();                        
+            services.AddTransient<IGenericRepository<TbSetor>, SetorRepository>();              
+            services.AddTransient<IGenericRepository<TbClientes>, ClientesRepository>();                          
+            services.AddTransient<IGenericRepository<TbFuncionarios>, FuncionarioRepository>();                                      
+            services.AddTransient<IGenericRepository<TbOrcamento>, OrcamentoRepository>();  
+            services.AddTransient<IGenericRepository<TbOrcamentoItem>, OrcamentoItemRepository>();              
             
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);                        
             services.AddEntityFrameworkMySql().AddDbContext<DbOrcamentoContext>(opt => opt.UseMySql(Configuration.GetConnectionString("MySQLConnectionString")));           
