@@ -11688,7 +11688,7 @@
     ]
   },
   "packageFolders": {
-    "/home/rodrigo/.nuget/packages/": {},
+    "/root/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
@@ -11697,14 +11697,14 @@
       "projectUniqueName": "/home/rodrigo/Área de Trabalho/WebAPIOrcamento/WebAPIOrcamento.csproj",
       "projectName": "WebAPIOrcamento",
       "projectPath": "/home/rodrigo/Área de Trabalho/WebAPIOrcamento/WebAPIOrcamento.csproj",
-      "packagesPath": "/home/rodrigo/.nuget/packages/",
+      "packagesPath": "/root/.nuget/packages/",
       "outputPath": "/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

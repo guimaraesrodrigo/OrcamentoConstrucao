@@ -1,0 +1,14 @@
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/release/netcoreapp2.1/WebAPIOrcamento.deps.json
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/release/netcoreapp2.1/WebAPIOrcamento.runtimeconfig.json
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/release/netcoreapp2.1/WebAPIOrcamento.runtimeconfig.dev.json
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/release/netcoreapp2.1/WebAPIOrcamento.dll
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/bin/release/netcoreapp2.1/WebAPIOrcamento.pdb
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/release/netcoreapp2.1/WebAPIOrcamento.csprojAssemblyReference.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/release/netcoreapp2.1/WebAPIOrcamento.csproj.CoreCompileInputs.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/release/netcoreapp2.1/WebAPIOrcamento.RazorAssemblyInfo.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/release/netcoreapp2.1/WebAPIOrcamento.RazorAssemblyInfo.cs
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/release/netcoreapp2.1/WebAPIOrcamento.AssemblyInfoInputs.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/release/netcoreapp2.1/WebAPIOrcamento.AssemblyInfo.cs
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/release/netcoreapp2.1/WebAPIOrcamento.RazorTargetAssemblyInfo.cache
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/release/netcoreapp2.1/WebAPIOrcamento.dll
+/home/rodrigo/Área de Trabalho/WebAPIOrcamento/obj/release/netcoreapp2.1/WebAPIOrcamento.pdb
